@@ -1,8 +1,0 @@
- NOTES.TXT ~/.tmux.conf ~/.vimrc ~/.bashrc
-
-
-Install vim gtk3 to get clipboard access  
-sudo apt install vim-gtk3
-
-
-
